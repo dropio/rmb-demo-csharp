@@ -1,0 +1,5 @@
+Rich Media Backbone Services simple demo
+
+This is a simple demo showing how one can create an ASP.NET webapp using the
+RMC C# client. This demo is intentionally simple and serves just to show how to get 
+assets into and out of drops.
