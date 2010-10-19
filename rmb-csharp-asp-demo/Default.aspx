@@ -11,8 +11,7 @@
 		<h1>Drop.io API Simple Demo for ASP.NET</h1>
 		<p>This demo provides a simple examples which will get you started on making your own apps which use the Drop.io Rich Media Backbone.</p>
 		<p>This is a fully functional demo app that you can use to manage your drops. To get started all you need to do is edit the <i>web.config</i>
-			file with your <i>api key</i> and <i>api secret</i> if you are using secured keys.</p>
-		<p>Note: api secret is optional if you are using unsecured api keys.</p>
+			file with your <i>api key</i>.</p>
 	
 		<hr />	
 	
