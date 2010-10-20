@@ -1,6 +1,6 @@
 .DS_Store
-Rmb.Core/bin/[^.]*
-Rmb.Core/obj/[^.]*
+rmb-csharp-asp-demo/bin/[^.]*
+rmb-csharp-asp-demo/obj/[^.]*
 rmb-csharp-asp-demo/rmb-csharp-asp-demo.suo
 rmb-csharp-asp-demo/rmb-csharp-asp-demo.userprefs
 rmb-csharp-asp-demo/rmb-csharp-asp-demo.pidb
